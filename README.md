@@ -1,2 +1,2 @@
 # Argent-Bank
-Création Front-End d'nu site sous framework REACT
+Création Front-End d'un site sous framework REACT
