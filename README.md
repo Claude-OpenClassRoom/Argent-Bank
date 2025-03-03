@@ -1,2 +1,2 @@
 # Argent-Bank
-Création Front-End d'un site Aragent-Banque sous framework REACT
+Création Front-End d'un site Argent-Banque sous framework REACT
